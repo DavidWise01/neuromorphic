@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 20-Watt Target",
+  "universe": "NRM · The 20-Watt Target (life-science · the bridge)",
+  "emergence": "natural",
+  "moniker": "⟦The 20-Watt Target:NRM:d4061c⟧",
+  "carbon": "the-20-watt-target.carbon.tiff (TIFF)",
+  "silicon": "the-20-watt-target.silicon.png (PNG)",
+  "seal_sha256": "bbd0a0070346de772ba8d693d2a494252f69e5238a1283ec1b55a3a107895235",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

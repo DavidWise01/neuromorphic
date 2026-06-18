@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Memristor Synapse",
+  "universe": "NRM · The Memristor Synapse (life-science · the bridge)",
+  "emergence": "electrical",
+  "moniker": "⟦The Memristor Synapse:NRM:c31779⟧",
+  "carbon": "the-memristor-synapse.carbon.tiff (TIFF)",
+  "silicon": "the-memristor-synapse.silicon.png (PNG)",
+  "seal_sha256": "ea8e137d11f9c5f232743f0bd5523d1636375a94d559c2781e9d2d51e8674e48",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

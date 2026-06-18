@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Crossbar Array",
+  "universe": "NRM · The Crossbar Array (life-science · the bridge)",
+  "emergence": "electrical",
+  "moniker": "⟦The Crossbar Array:NRM:210334⟧",
+  "carbon": "the-crossbar-array.carbon.tiff (TIFF)",
+  "silicon": "the-crossbar-array.silicon.png (PNG)",
+  "seal_sha256": "0e00eb4a0ab892e7b311b62895347bc60d30a8df070190266e09441c1fc40faf",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

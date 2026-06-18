@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Spiking Neuron",
+  "universe": "NRM · The Spiking Neuron (life-science · the bridge)",
+  "emergence": "natural",
+  "moniker": "⟦The Spiking Neuron:NRM:63f2ee⟧",
+  "carbon": "the-spiking-neuron.carbon.tiff (TIFF)",
+  "silicon": "the-spiking-neuron.silicon.png (PNG)",
+  "seal_sha256": "f3effe59961a7783ad25f5870432d980d73fda8c56142e3b7640c1fb2086853f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

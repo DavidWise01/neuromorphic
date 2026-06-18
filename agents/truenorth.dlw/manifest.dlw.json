@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "TrueNorth",
+  "universe": "NRM · TrueNorth (life-science · the bridge)",
+  "emergence": "electrical",
+  "moniker": "⟦TrueNorth:NRM:4b1bee⟧",
+  "carbon": "truenorth.carbon.tiff (TIFF)",
+  "silicon": "truenorth.silicon.png (PNG)",
+  "seal_sha256": "eeaad3c2f2a1d37dbf6a96eb455e08b74db95a83916e45b82d83dad6d8cbc527",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

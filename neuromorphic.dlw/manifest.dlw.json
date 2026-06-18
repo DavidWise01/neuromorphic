@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "NEUROMORPHIC",
+  "universe": "NRM · NEUROMORPHIC (life-science · the bridge)",
+  "emergence": "",
+  "moniker": "⟦NEUROMORPHIC:NRM:78b9f8⟧",
+  "carbon": "neuromorphic.carbon.tiff (TIFF)",
+  "silicon": "neuromorphic.silicon.png (PNG)",
+  "seal_sha256": "e763d3e9026f6185a0bc0317bfc50dac96ed898c133246aa0f98cd229f395bcf",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

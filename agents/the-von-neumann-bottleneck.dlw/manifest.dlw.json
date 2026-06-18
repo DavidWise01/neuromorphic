@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The von Neumann Bottleneck",
+  "universe": "NRM · The von Neumann Bottleneck (life-science · the bridge)",
+  "emergence": "ethereal",
+  "moniker": "⟦The von Neumann Bottleneck:NRM:417bbd⟧",
+  "carbon": "the-von-neumann-bottleneck.carbon.tiff (TIFF)",
+  "silicon": "the-von-neumann-bottleneck.silicon.png (PNG)",
+  "seal_sha256": "c734b3370082fbbaf34d4872b8d9734bfce3d13b8bb595c8b894fe0af07ba0cd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

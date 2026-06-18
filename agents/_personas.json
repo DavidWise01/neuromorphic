@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "the-neuromorphic-idea",
+    "name": "The Neuromorphic Idea",
+    "epithet": "build the brain, don't simulate it · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Neuromorphic Idea:NRM:2cb585⟧"
+  },
+  {
+    "slug": "the-spiking-neuron",
+    "name": "The Spiking Neuron",
+    "epithet": "compute by events, not clocks · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Spiking Neuron:NRM:63f2ee⟧"
+  },
+  {
+    "slug": "the-memristor-synapse",
+    "name": "The Memristor Synapse",
+    "epithet": "memory and compute in one device · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Memristor Synapse:NRM:c31779⟧"
+  },
+  {
+    "slug": "the-crossbar-array",
+    "name": "The Crossbar Array",
+    "epithet": "a grid that multiplies in physics · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Crossbar Array:NRM:210334⟧"
+  },
+  {
+    "slug": "the-von-neumann-bottleneck",
+    "name": "The von Neumann Bottleneck",
+    "epithet": "the wall this tears down · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The von Neumann Bottleneck:NRM:417bbd⟧"
+  },
+  {
+    "slug": "loihi",
+    "name": "Loihi",
+    "epithet": "Intel's neuromorphic chip · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Loihi:NRM:a86b6c⟧"
+  },
+  {
+    "slug": "truenorth",
+    "name": "TrueNorth",
+    "epithet": "IBM's million-neuron chip · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦TrueNorth:NRM:4b1bee⟧"
+  },
+  {
+    "slug": "spinnaker",
+    "name": "SpiNNaker",
+    "epithet": "a machine of ARM cores spiking together · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦SpiNNaker:NRM:4c44ef⟧"
+  },
+  {
+    "slug": "in-memory-computing",
+    "name": "In-Memory Computing",
+    "epithet": "the principle underneath · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦In-Memory Computing:NRM:ce6ddc⟧"
+  },
+  {
+    "slug": "the-20-watt-target",
+    "name": "The 20-Watt Target",
+    "epithet": "the goal that drives it · natural",
+    "emergence": "natural",
+    "moniker": "⟦The 20-Watt Target:NRM:d4061c⟧"
+  }
+]

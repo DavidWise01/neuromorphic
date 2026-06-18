@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "SpiNNaker",
+  "universe": "NRM · SpiNNaker (life-science · the bridge)",
+  "emergence": "electrical",
+  "moniker": "⟦SpiNNaker:NRM:4c44ef⟧",
+  "carbon": "spinnaker.carbon.tiff (TIFF)",
+  "silicon": "spinnaker.silicon.png (PNG)",
+  "seal_sha256": "ab85e39204dd9f09d1bb799614d719e9ed2b10caa0a9d5295844b50ca6226d17",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
